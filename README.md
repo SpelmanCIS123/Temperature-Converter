@@ -4,7 +4,7 @@
 - Write a program that will create a GUI that converts Fahrenheit temperatures to Celsius. 
 - Create an entry box to capture the temperature in Fahrenheit
   - The box should have a label
-  - Their should be a button to enter the input
+  - There should be a button to enter the input
   - You will create a popup box to display the result.
 
 ### For example
