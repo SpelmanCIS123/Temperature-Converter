@@ -1,9 +1,11 @@
-# Grade Averaging GUI
+# Temperature Converter
 
 ## Instructions 
-- Write a program that will create a GUI that will take 3 test grades and display their average. 
-- The entry boxes for the test grades should have labels
-- The average should display on the main display 
+- Write a program that will create a GUI that converts Fahrenheit temperatures to Celsius. 
+- Create an entry box to capture the temperature in Fahrenheit
+  - The box should have a label
+  - Their should be a button to enter the input
+  - You will create a popup box to display the result.
 
 ### For example
 
